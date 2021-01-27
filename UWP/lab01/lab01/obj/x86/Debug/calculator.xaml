@@ -1,0 +1,63 @@
+﻿<Page
+    x:Class="lab01.calculator"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:lab01"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" d:DesignWidth="1352" d:DesignHeight="1672">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" Background="White" Grid.ColumnSpan="4" >
+            <TextBox HorizontalAlignment="Center" IsReadOnly="True" Text="Calculator" Foreground="Black" BorderBrush="Transparent" TextAlignment="Center" FontSize="70"></TextBox>
+        </Border>
+        <Grid Grid.Row="1" Background="WhiteSmoke" Grid.ColumnSpan="4"></Grid>
+        <Grid Grid.Row="2" Background="WhiteSmoke" Grid.ColumnSpan="4"></Grid>
+        <Grid Grid.Row="3" Background="WhiteSmoke" Grid.ColumnSpan="4"></Grid>
+        <Grid Grid.Row="4" Background="WhiteSmoke" Grid.ColumnSpan="4"></Grid>
+        <Grid Grid.Row="5" Background="WhiteSmoke" Grid.ColumnSpan="4"></Grid>
+        <Grid Grid.Row="6" Background="WhiteSmoke" Grid.ColumnSpan="4"></Grid>
+        <TextBox Grid.Row="1" Grid.ColumnSpan="4" TabIndex="1" VerticalAlignment="Top" HorizontalAlignment="Center" PlaceholderText="Enter Value" Width="300" BorderBrush="Transparent" TextAlignment="Right" FontSize="20" Margin="0,10,0,5" Height="40"></TextBox>
+        <TextBox HorizontalAlignment="Center" Grid.ColumnSpan="4" Grid.Row="1" TextAlignment="Left" PlaceholderText="Result" Width="300" BorderBrush="Transparent" Margin="0,50,0,5" FontSize="20" Height="40"></TextBox>
+        <Button VerticalAlignment="Top" Width="80" Content="+" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="0" Grid.Row="2" FontSize="40"></Button>
+        <Button VerticalAlignment="Top" Width="80" Content="-" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="1" Grid.Row="2" FontSize="40"></Button>
+        <Button VerticalAlignment="Top" Width="80" Content="*" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="2" Grid.Row="2" FontSize="40"></Button>
+        <Button VerticalAlignment="Top" Width="80" Content="/" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="3" Grid.Row="2" FontSize="40"></Button>
+        <Button VerticalAlignment="Top" Width="80" Content="7" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="0" Grid.Row="3" FontSize="40"></Button>
+        <Button VerticalAlignment="Top" Width="80" Content="8" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="1" Grid.Row="3" FontSize="40"></Button>
+        <Button VerticalAlignment="Top" Width="80" Content="9" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="2" Grid.Row="3" FontSize="40"></Button>
+        <Button VerticalAlignment="Center" BorderBrush="Black" Height="340" Width="70" Content="=" Background="Transparent" Foreground="Black" Grid.Column="4" Grid.Row="3" Grid.RowSpan="4" Margin="10,0,10,0" FontSize="48"/>
+        <!--5th Row-->
+        <Button VerticalAlignment="Top" Width="80" Content="4" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="0" Grid.Row="4" FontSize="40"></Button>
+        <Button VerticalAlignment="Top" Width="80" Content="5" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="1" Grid.Row="4" FontSize="40"></Button>
+        <Button VerticalAlignment="Top" Width="80" Content="6" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="2" Grid.Row="4" FontSize="40"></Button>
+
+        <!--6th Row-->
+        <Button VerticalAlignment="Top" Width="80" Content="1" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="0" Grid.Row="5" FontSize="40"></Button>
+        <Button VerticalAlignment="Top" Width="80" Content="2" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="1" Grid.Row="5" FontSize="40"></Button>
+        <Button VerticalAlignment="Top" Width="80" Content="3" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Column="2" Grid.Row="5" FontSize="40"></Button>
+
+        <!--7th Row-->
+        <Button VerticalAlignment="Top" Width="80" Content="0" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Row="6" Grid.Column="0" FontSize="40"></Button>
+        <Button VerticalAlignment="Top" Width="80" Content="." Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Row="6" Grid.Column="1" FontSize="40"></Button>
+        <Button VerticalAlignment="Top" Width="80" Content="Clear" Background="Transparent" Foreground="Black" Margin="0,20,0,0" Grid.Row="6" Grid.Column="2" FontSize="25"></Button>
+    </Grid>
+
+</Page>
+
