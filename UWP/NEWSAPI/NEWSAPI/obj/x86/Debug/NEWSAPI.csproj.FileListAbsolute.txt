@@ -1,0 +1,157 @@
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\App.xbf
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\ArticleView.xbf
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\MainPage.xbf
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\NEWSAPI.xr.xml
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\NEWSAPI.exe
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\NEWSAPI.pdb
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\resources.pri
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\AppxManifest.xml
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\Core\AppxManifest.xml
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\Core\NEWSAPI.exe
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\NEWSAPI.build.appxrecipe
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\System.Runtime.dll
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.csprojAssemblyReference.cache
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\App.g.i.cs
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\App.g.cs
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\ArticleView.g.i.cs
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\ArticleView.g.cs
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\MainPage.g.i.cs
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\MainPage.g.cs
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\App.xaml
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\ArticleView.xaml
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\MainPage.xaml
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\App.xbf
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\ArticleView.xbf
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\MainPage.xbf
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.csproj.CoreCompileInputs.cache
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.csproj.CopyComplete
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.exe
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.pdb
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\ResourceHandlingTask.state
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\priconfig.xml
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\priconfig.xml.intermediate
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\filtered.layout.resfiles
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\excluded.layout.resfiles
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\resources.resfiles
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\resources.resfiles.intermediate
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\pri.resfiles
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\pri.resfiles.intermediate
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\qualifiers.txt
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\ProjectArchitectures.txt
+C:\Documents\sem3-master\sem3-master\sem3-master\NEWSAPI\NEWSAPI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\App.xbf
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\ArticleView.xbf
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\MainPage.xbf
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\NEWSAPI.xr.xml
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\NEWSAPI.exe
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\NEWSAPI.pdb
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\resources.pri
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\AppxManifest.xml
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\Core\NEWSAPI.exe
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\NEWSAPI.build.appxrecipe
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\System.Runtime.dll
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\App.g.i.cs
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\ArticleView.g.i.cs
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\ArticleView.g.cs
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\MainPage.g.cs
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\App.xaml
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\ArticleView.xaml
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\MainPage.xaml
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\App.xbf
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\ArticleView.xbf
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\MainPage.xbf
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.exe
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.pdb
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\priconfig.xml
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\resources.resfiles
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\pri.resfiles
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\qualifiers.txt
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\ADMIN\Desktop\NEWSAPI\NEWSAPI\NEWSAPI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\SQLitePCL.Ext.dll
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\SQLitePCL.Ext.pri
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\App.xbf
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\ArticleView.xbf
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\MainPage.xbf
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\NEWSAPI.xr.xml
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\NEWSAPI.exe
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\NEWSAPI.pdb
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\resources.pri
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\AppxManifest.xml
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\Core\AppxManifest.xml
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\Core\NEWSAPI.exe
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\NEWSAPI.build.appxrecipe
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\System.Runtime.dll
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\SQLitePCL.dll
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.csprojAssemblyReference.cache
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\App.g.i.cs
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\App.g.cs
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\ArticleView.g.i.cs
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\ArticleView.g.cs
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\MainPage.g.i.cs
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\MainPage.g.cs
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\App.xaml
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\ArticleView.xaml
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\MainPage.xaml
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\App.xbf
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\ArticleView.xbf
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\MainPage.xbf
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\XamlSaveStateFile.xml
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.csproj.CoreCompileInputs.cache
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.csproj.CopyComplete
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.exe
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\NEWSAPI.pdb
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\ResourceHandlingTask.state
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\priconfig.xml
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\priconfig.xml.intermediate
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\unfiltered.layout.resfiles
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\filtered.layout.resfiles
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\excluded.layout.resfiles
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\resources.resfiles
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\resources.resfiles.intermediate
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\pri.resfiles
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\pri.resfiles.intermediate
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\qualifiers.txt
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\resources.en.resfiles
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\resources.en.resfiles.intermediate
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\ProjectArchitectures.txt
+F:\Aptech\SEM 3\NEWSAPI\NEWSAPI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json

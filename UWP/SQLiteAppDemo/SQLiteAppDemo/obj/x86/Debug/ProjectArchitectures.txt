@@ -1,0 +1,1 @@
+F:\Aptech\SEM 3\SQLiteAppDemo\SQLiteAppDemo\SQLiteAppDemo.csproj;x86

@@ -1,0 +1,33 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="NewsAPIDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NewsAPIDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:data="using:NewsAPIDemo.Model"
+    mc:Ignorable="d" 
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="1218" Width="1552">
+    
+    <Grid Margin="0,0,10,10">
+        <TextBox HorizontalAlignment="Left" Margin="120,44,0,0" Text="Search" TextWrapping="Wrap" VerticalAlignment="Top" Height="40" Width="527"/>
+        <Button Content="Search" Margin="709,52,0,0" VerticalAlignment="Top"/>
+        <Image x:ConnectionId='2' Name="resourceImage" HorizontalAlignment="Left" Height="177" Margin="116,215,0,0" VerticalAlignment="Top" Width="472"/>
+        <TextBlock x:ConnectionId='3' Name="titleTextBlock" HorizontalAlignment="Left" Margin="120,138,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" Height="51" Width="465"/>
+        <TextBlock x:ConnectionId='4' Name ="contentTextBlock" HorizontalAlignment="Left" Margin="116,412,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" Height="237" Width="473"/>
+        <ScrollViewer Margin="636,141,723,560" >
+            <GridView x:ConnectionId='5'                                >
+                <GridView.ItemTemplate>
+                    <DataTemplate                          >
+                        <StackPanel x:ConnectionId='7'>
+                            <TextBlock x:ConnectionId='8'                      />
+                        </StackPanel>
+                    </DataTemplate>
+                </GridView.ItemTemplate>
+            </GridView>
+        </ScrollViewer>
+            
+
+    </Grid>
+</Page>
+
